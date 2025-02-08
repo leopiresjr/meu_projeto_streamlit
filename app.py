@@ -1,4 +1,4 @@
 import streamlit as st
- 
-st.title("Meu Aplicativo Streamlit")
-st.write("Olá, este é um app simples usando Streamlit!")
+
+st.title('Meu Aplicativo Streamlit')
+st.write('Este é um teste de deploy no Render!')
